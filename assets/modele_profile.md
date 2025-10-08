@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-**Name:** XXXX YYYY
+**Name:** Lorenzo Lopes
 
 **Role:** Student Developer
 
